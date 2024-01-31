@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hjalmarfrnskolan
+- 👋 Hi, I’m @hjalmar frn skolan
 - 👀 I’m interested in all type of pragramming
 - 🌱 I’m currently learning pyton
 - 📫 How to reach me: hjalmaralaker4@gmail.com
