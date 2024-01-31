@@ -1,0 +1,8 @@
+@media (max-with:1080){
+    p{
+        background-color: aqua;
+        color: coral;
+        padding: 20px;
+
+    }
+}
