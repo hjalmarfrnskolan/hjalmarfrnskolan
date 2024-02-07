@@ -5,4 +5,10 @@
         padding: 20px;
 
     }
+    .head {
+        background-color: aqua;
+        color: coral;
+        padding: 20px;
+        size: 50px;
+     }
 }
